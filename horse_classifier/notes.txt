@@ -1,0 +1,21 @@
+Images collected:
+
+No Pain:
+-	Ears: 11 + 48 = 59
+-	Eyes: 12 + 48 = 60
+-	Muzzle: 14 + 59 = 73
+= 37
+-	Head: 50 + 200 = 250
+= 442
+
+Pain
+-	Ears: 18 + 72 = 90
+-	Eyes: 21 + 84 = 105
+-	Muzzle: 25 + 102 = 127
+= 64
+-	Head: 39 + 161 = 200
+= 522
+
+Total = 964
+
+(Legend: category: test + train = total)
